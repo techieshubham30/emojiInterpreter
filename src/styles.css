@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+  border-radius: 1rem;
+}
+
+.container {
+  height: 40vh;
+  width: 50vw;
+  background-color: #374151;
+  color: white;
+  border-radius: 1rem;
+  padding-top: 0.1rem;
+  display: block;
+  margin: auto;
+}
